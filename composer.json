@@ -1,5 +1,5 @@
 {
-    "name": "yuks/Toolkit",
+    "name": "yuks/toolkit",
     "type": "library",
     "description": "This class contains useful helper functions.",
     "keywords": ["php", "curl", "helper", "slug", "bbcode", "validate", "methods"],
