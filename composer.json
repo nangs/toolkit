@@ -1,0 +1,19 @@
+{
+    "name": "yuks/Toolkit",
+    "type": "library",
+    "description": "This class contains useful helper functions.",
+    "keywords": ["php", "curl", "helper", "slug", "bbcode", "validate", "methods"],
+    "homepage": "http://yukselbeyti.com/",
+    "license": ["MIT"],
+    "authors": [
+        { "name" : "Yuksel Beyti" }
+    ],
+    "require": {
+        "php": ">=5.3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "yuks\\Toolkit\\": "src"
+        }
+    }
+}
